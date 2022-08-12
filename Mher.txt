@@ -1,0 +1,1 @@
+Student{name='Mher', age=16}

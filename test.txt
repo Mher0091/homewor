@@ -1,0 +1,4 @@
+Misak,21
+Gohar,30
+Mher,16
+Vahan,40
